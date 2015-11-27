@@ -41,4 +41,6 @@ output/*/index.html
 
 # Sphinx
 docs/_build
-/webwordup.db
+webwordup/webwordup.db
+
+
